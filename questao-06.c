@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
 	}
 	
 	
-	printf("A duração foi de %dh:%dmin \n", haux, maux);
+	printf("A duraÃ§Ã£o foi de %dh:%dmin \n", haux, maux);
 	
 	return 0;
 }
