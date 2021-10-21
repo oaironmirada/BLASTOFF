@@ -4,6 +4,8 @@
 #include<string.h>
 #include <ctype.h>
 
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
 int main(int argc, char *argv[]) {
 	setlocale(LC_ALL, "Portuguese");
 	
@@ -24,9 +26,9 @@ int main(int argc, char *argv[]) {
 	valor = strcmp(pal, inv);
 
 	if (valor == 0){
-		printf("A palavra %s È palÌndroma\n", pal);
+		printf("A palavra %s √© pal√≠ndroma\n", pal);
 	}else{
-		printf("A palavra %s n„o È palÌndroma\n", pal);
+		printf("A palavra %s n√£o √© pal√≠ndroma\n", pal);
 	}
    
 	return 0;
