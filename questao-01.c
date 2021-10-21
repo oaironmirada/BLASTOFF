@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 
     media = ((i + j + k + x + y) / 5);
 
-    printf ("A média das idades é: %.2f\n", media);
+    printf ("A mÃ©dia das idades Ã©: %.2f\n", media);
     system ("pause");
     
 	return 0;
