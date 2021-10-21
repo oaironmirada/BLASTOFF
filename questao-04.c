@@ -9,12 +9,12 @@ int main(int argc, char *argv[]) {
 	
 	float c, f;
 	
-	printf("Informe a temperatura em ºC: ");
+	printf("Informe a temperatura em ÂºC: ");
 	scanf("%f", &c);
 	
 	f = (c * 1.8 +32);
 	
-	printf("A temperatura em F é: %.1f F \n", f);
+	printf("A temperatura em F Ã©: %.1f F \n", f);
 	
 	return 0;
 }
