@@ -19,11 +19,11 @@ int main(int argc, char *argv[]) {
     scanf("%d",&c);
     
     if (a < b && a < c){
-		printf("A é o menor numero");
+		printf("A Ã© o menor numero");
 	}else if (b < a && b < c){
-		printf("B é o menor numero");
+		printf("B Ã© o menor numero");
 	}else{
-		printf("C é o menor numero");
+		printf("C Ã© o menor numero");
 	}
 	    
 	return 0;
