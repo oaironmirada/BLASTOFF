@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	setlocale(LC_ALL, "Portuguese");
 	float c, d, v;
 
-    printf ("Informe a dist‚ncia em km: ");
+    printf ("Informe a dist√¢ncia em km: ");
     scanf ("%f", &d);
     
     printf("Informe o gasto de combustivel em l: ");
@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 
     c = d / v;
 
-    printf ("O consumo mÈdio È de %.1f km/l\n", c);
+    printf ("O consumo m√©dio √© de %.1f km/l\n", c);
     system ("pause");
     
 	return 0;
