@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
 	resto = (sf % seg);
 	mf = (resto / 60);
 	
-	printf("A duração foi de %dh:%dmin \n", hf, mf);
+	printf("A duraÃ§Ã£o foi de %dh:%dmin \n", hf, mf);
 	
 	return 0;
 }
