@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
   
 	do {
     	system("cls");
-    	printf("Digite um número inteiro e positivo: ");
+    	printf("Digite um nÃºmero inteiro e positivo: ");
     	scanf("%d", &x);
 	} while (x <= 0);
   
@@ -23,9 +23,9 @@ int main(int argc, char *argv[]) {
 	}
     
 	if (div == 2){
-		printf("O número %d é primo!", x);
+		printf("O nÃºmero %d Ã© primo!", x);
 	} else{
-		printf("O número %d não é primo!", x);
+		printf("O nÃºmero %d nÃ£o Ã© primo!", x);
 	}
     
 
