@@ -18,9 +18,9 @@ int main(int argc, char *argv[]) {
 	resto = (a%b);
 	
 	if(resto == 0){
-		printf("S„o multiplos\n");
+		printf("S√£o multiplos\n");
 	}else{
-		printf("N„o s„o multiplos\n");
+		printf("N√£o s√£o multiplos\n");
 	}
 	
 	return 0;
