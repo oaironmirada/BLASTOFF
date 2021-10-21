@@ -9,10 +9,10 @@ int main(int argc, char *argv[]) {
 	
 	int n, i, r, p;
 	
-	printf("DIGITE 1 PARA ADI«√O\nDIGITE 2 PARA SUBTRA«√O\nDIGITE 3 PARA MULTIPLICA«√O\nDIGITE 4 PARA DIVIS√O\n ");
+	printf("DIGITE 1 PARA ADI√á√ÉO\nDIGITE 2 PARA SUBTRA√á√ÉO\nDIGITE 3 PARA MULTIPLICA√á√ÉO\nDIGITE 4 PARA DIVIS√ÉO\n ");
 	scanf("%d", &p);
 	
-	printf("Qual numero vocÍ quer saber a tabuada: ");
+	printf("Qual numero voc√™ quer saber a tabuada: ");
 	scanf("%d", &n);
 	
 	switch(p){
