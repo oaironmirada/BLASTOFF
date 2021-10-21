@@ -17,7 +17,6 @@ int main(int argc, char *argv[]) {
 	srand(time(NULL));
   
   	  for (i=0; i < 10; i++){
-    // gerando valores aleatórios na faixa de 0 a 100
     	lista[i] = rand() % 100;
     	printf("%d ", lista[i]);
 	}
@@ -35,7 +34,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("\n");
 	
-	printf("Em ordem crescente os pares são: ");
+	printf("Em ordem crescente os pares sÃ£o: ");
     for(i=0; i<10; i++){
  	n = lista[i] %2;
  	
